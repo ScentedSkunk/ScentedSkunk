@@ -1,8 +1,8 @@
 <h1 align="center">Hello, I'm Jamie.</h1>
-<h3 align="center">I have over 15 years of experience in linux servers, bespoke applications and pesky backends.</h3>
+<h3 align="center">I have over 15 years of experience in linux servers, bespoke applications and pesky backends. I'm now trying my hand at game development</h3>
 <h3 align="left">About:</h3>
 
-- 🔭 I’m currently working on Trials of Dao
+- 🔭 I’m currently working on Way of the Spear
 
 <h3 align="left">Languages and Tools:</h3>
 <table>
